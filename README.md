@@ -1,4 +1,4 @@
-# Traitor update 1-2
+# Traitor update 1-3
 
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
